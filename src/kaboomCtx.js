@@ -5,5 +5,4 @@ export const k = kaboom({
   height: 720,
   letterbox: true,
   global: false,
-  touchToMouse: true,
 });
